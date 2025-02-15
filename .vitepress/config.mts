@@ -6,7 +6,7 @@ export default defineConfig({
   title: "Jianer Docs",
   description: "开源 · 模块化 · 易于配置",
   lastUpdated: true,
-  base: '/jianer/',
+  base: '/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-
     nav: [
