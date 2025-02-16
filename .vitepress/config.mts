@@ -22,7 +22,7 @@ export default defineConfig({
           { text: '快速开始', link: '/faststart' },
           { text: '用户组', link: '/Configure-User-Group' },
           { text: '使用AI功能', link: '/Configuring-AI-Functions' },
-          { text: '插件开发(更新中)', link: '/Create-a-New-Plugin' },
+          { text: '开发你的插件', link: '/Create-a-New-Plugin' },
         ]
       }
     ],
