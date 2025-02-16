@@ -7,7 +7,7 @@ hero:
   text: "开源 · 模块化 · 易于配置"
   tagline: 基于 OneBot v11 框架自主开发的新一代QQ机器人
   image:
-    src: /tx.jpg
+    src: /tx.png
     alt: tx
   actions:
     - theme: brand
